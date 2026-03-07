@@ -71,6 +71,8 @@ Some important business questions solved in this project:
 **Lavkush**  
 Aspiring Data Analyst
 
+[LinkedIn](https://www.linkedin.com/in/lavkush2005kumar)
+
 ---
 These analysis help understand pricing strategy, discount patterns, inventory distribution, and category-wise business performance.
 
