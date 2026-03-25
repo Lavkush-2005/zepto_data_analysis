@@ -13,7 +13,7 @@ The goal is to understand sales trends, stock patterns, and product performance 
 ##  🔧 Tools & Technologies Used
 
 - **Language:** SQL  
-- **Database:** PostgreSQL / pgAdmin  
+- **Database:** PostgreSQL  
 - **Query tool:** pgAdmin
 - **Dataset Source:** Kaggle (CSV format)  
 
